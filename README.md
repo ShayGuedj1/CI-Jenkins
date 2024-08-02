@@ -1,6 +1,6 @@
 # CI-Jenkins
-Welcome to this project. This project demonstrates a CI pipeline on the main branch.
-The CI pipeline 
+Welcome to this project. This project demonstrates a CI pipeline on the main branch, and the CI/CD as a seperated branch. 
+The CI/CD branch has a staging pipeline and a prod pipeline.
 
 ## Overview:
 
