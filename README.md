@@ -9,7 +9,7 @@ The CI pipeline
 * Instance for Nexus
 * Instance for SonarQube
 
-### In addition, this project uses user_data files that are a part of the pre-setup of the instances (one for jenkins, one for Nexus, and one for SonarQube).
+##### In addition, this project uses user_data files that are a part of the pre-setup of the instances (one for jenkins, one for Nexus, and one for SonarQube).
 
 ### Tools:
 * Maven
